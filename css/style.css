@@ -74,7 +74,7 @@ a.skip:focus{
   }
 
 
-  .nav_item a{
+.nav_item a{
     padding: 10px;
 }
 
@@ -232,7 +232,12 @@ a.skip:focus{
     padding: 10px;
 }
 
-#movement{
+#movement1{
+    animation-duration: 3s;
+    animation-name: slidein;
+}
+
+#movement2{
     animation-duration: 3s;
     animation-name: slidein;
 }
